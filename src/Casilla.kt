@@ -1,0 +1,1 @@
+class Casilla(var carta: Carta? = null)

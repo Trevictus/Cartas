@@ -1,0 +1,1 @@
+class Carta(var nombre:String, var ataque: Int, var defensa: Int, var nivel: Int)
